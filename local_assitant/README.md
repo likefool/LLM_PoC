@@ -1,5 +1,6 @@
 # Personal Assistant with WebKnowledge
 
+![personal Assistant PoC](images/nvidia_personal_assistant.png?raw=true)
 
 ## Acknowledgement
 
